@@ -1,7 +1,7 @@
 ##
 👋 Olá, Eu sou a Jessica Sampaio Trindade!
 
-📫 Estudante de Engenharia de engenharia de Software.
+📫 Estudante de Engenharia de engenharia de Software e Analise e sDesenvolbimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/jessicasampaio">
