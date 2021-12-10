@@ -2,8 +2,6 @@
 
 📫 Estudante de Engenharia de Software e Analise e Desenvolvimento de Sistemas.
 
-📍 Canoinhas, Brazil
-
 <div align="center">
   <a href="https://github.com/jessicasampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicasampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
