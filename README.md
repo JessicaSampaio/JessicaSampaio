@@ -29,6 +29,6 @@
   <a href = ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/jessicatrindade/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JessicaSampaio/JessicaSampaio/blob/output/github-contribution-grid-snake.svg)
  
  </div>
