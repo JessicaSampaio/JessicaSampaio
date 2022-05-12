@@ -1,6 +1,6 @@
-👩🏻‍💻 Yo, I'm Jéssica Sampaio Trindade!
+👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade!
 
-📚 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas.
+📚 Student of Software Engineering and Analysis and Development Student of Systems.
 
 <div align="center">
   <a href="https://github.com/jessicasampaio">
