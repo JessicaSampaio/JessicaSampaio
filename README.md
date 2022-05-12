@@ -1,4 +1,4 @@
-👩🏻‍💻 Olá, eu sou a Jéssica Sampaio Trindade!
+👩🏻‍💻 Yo, I'm Jéssica Sampaio Trindade!
 
 📚 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas.
 
