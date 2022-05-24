@@ -24,16 +24,19 @@
   
   <h4 align="center"> 🧠 Learning </h4>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />    
+    <img align="center" alt="Ane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Ane-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Ane-jQUERY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/jquery/jquery-original-wordmark.svg">
+  <img align="center" alt="Ane-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Ane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
+   <img align="center" alt="Ane-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
 </p>
 </div>
-
+ <br />
 <div>
   <h4 align="center"> 📲 Social Networks </h4>
   <p align="center">
