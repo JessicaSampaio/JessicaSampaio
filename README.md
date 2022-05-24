@@ -8,7 +8,6 @@
    <h4 align='left'>
     :round_pushpin: Canoinhas, Brazil;<br /><br />
     :dart:Software Engineering
-     :round_pushpin: Canoinhas, Brazil;<br /><br />
     :dart:Analysis and Development Student of Systems
     
     <br /><br />
