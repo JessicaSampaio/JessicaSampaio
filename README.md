@@ -1,9 +1,19 @@
-👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade!
+👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade.
 
 📚 Student of Software Engineering and Analysis and Development Student of Systems.
 
 <div align="center">
   <a href="https://github.com/jessicasampaio">
+   
+   <h4 align='left'>
+    :round_pushpin: Canoinhas, Brazil;<br /><br />
+    :dart:Software Engineering
+     :round_pushpin: Canoinhas, Brazil;<br /><br />
+    :dart:Analysis and Development Student of Systems
+    
+    <br /><br />
+</h4>
+<br />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jessicasampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasampaio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
