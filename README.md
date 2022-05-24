@@ -7,7 +7,7 @@
    <h4 align='left'>
     📍 Canoinhas, Brazil <br /><br />
     📚💻 Software Engineering. <br /><br />
-    📚💻 Analysis and Development Student of Systems.
+    📚💻 Technologist in System Analysis and Development.
     
 </h4>
 <br />
