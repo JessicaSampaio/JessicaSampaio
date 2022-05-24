@@ -1,37 +1,35 @@
 👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade.
 
-📚 Student of Software Engineering and Analysis and Development Student of Systems.
-
 <div align="center">
   <a href="https://github.com/jessicasampaio">
    
    <h4 align='left'>
-    :round_pushpin: Canoinhas, Brazil;<br /><br />
-    :dart:Software Engineering
-    :dart:Analysis and Development Student of Systems
-    
-    <br /><br />
-</h4>
+     💻 Software Engineering
+     <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
+     💻Analysis and Development Student of Systems
+     <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
+    </h4>
 <br />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jessicasampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasampaio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jessica-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jessica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jessica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jessica-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+  <h4 align="center"> :brain: Learning</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+<br /><br />
 </div>
-
-##
  
-<div> 
+<div>
+  <h4 align="center"> 📲 Social Networks </h4>
+<p align="center">
   <a href="https://instagram.com/jessica__sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:je.sampaio05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessicasampaiotrindade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
