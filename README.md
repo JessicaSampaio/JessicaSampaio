@@ -6,8 +6,10 @@
    
    <h4 align='left'>
     📍 Canoinhas, Brazil <br /><br />
-    📚💻 Software Engineering. <br /><br />
+    📚💻 Software Engineering.
+     <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
     📚💻 Technologist in System Analysis and Development.
+     <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
     
 </h4>
 <br />
