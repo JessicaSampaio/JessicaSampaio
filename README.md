@@ -1,10 +1,11 @@
+
 👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade.
 
 <div align="center">
   <a href="https://github.com/jessicasampaio">
    
    <h4 align='left'>
-    :round_pushpin: Canoinhas, Brazil <br /><br />
+    📍 Canoinhas, Brazil <br /><br />
     📚💻 Software Engineering. <br /><br />
     📚💻 Analysis and Development Student of Systems.
     
@@ -19,7 +20,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <h4 align="center"> :brain: Learning </h4>
+  <h4 align="center"> 🧠 Learning </h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" />
