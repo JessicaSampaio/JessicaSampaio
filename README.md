@@ -1,6 +1,6 @@
 
-👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade.
-
+👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade.<br />
+👩🏻‍💻 Developer on the rise!
 <div align="center">
   <a href="https://github.com/jessicasampaio">
    
