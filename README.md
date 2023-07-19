@@ -1,4 +1,3 @@
-
 👩🏻‍💻 Hello, I'm Jéssica Sampaio Trindade.<br/>
 👩🏻‍💻 Developer on the rise!<br /><br />
 🤓 "The more I study, the more insatiable I feel my genius for it to be."... Ada Lovelace
