@@ -8,7 +8,7 @@
     📍 Canoinhas, Brazil <br /><br />
     💻 Software Engineering.
      <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
-    > <br /><br />
+    <br /><br />
     💻 systems analyst and developer
     </h4>
     
