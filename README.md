@@ -14,7 +14,8 @@
       <img src="https://img.shields.io/badge/%202025-brightgreen" /> <br /><br />
     </h4>    
 <br /> 
- <h4 align="center"> :brain: Learning</h4>
+
+<h4 align="center"> :brain: Learning</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -34,10 +35,7 @@
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
-</p>
-<br /><br />
-</div>
- <br />
+<br /><br />  
 <div>
   <h4 align="center"> 📲 Social Networks </h4>
   <p align="center">
