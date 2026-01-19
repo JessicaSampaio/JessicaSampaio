@@ -7,7 +7,7 @@
    <h4 align='left'>
     📍 Canoinhas, Brazil <br /><br />
      :dart: Data Science
-    <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
+    <img src="https://img.shields.io/badge/loading...-red" /> <br /><br />
       💻 Systems Analyst and Developer
      <img src="https://img.shields.io/badge/%202024-brightgreen" /> <br /><br />
       💻 Software Engineering
