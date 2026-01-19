@@ -12,19 +12,8 @@
      <img src="https://img.shields.io/badge/%202024-brightgreen" /> <br /><br />
       💻 Software Engineering
       <img src="https://img.shields.io/badge/%202025-brightgreen" /> <br /><br />
-    </h4>
-    
-<br />
-    
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=JessicaTrindade&theme=radical&show_icons=true&count_private=true?&include_all_commits=true"
-    alt="Top Langs" height="165" />
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=je&layout=compact&theme=radical"
-    alt="Top Langs" height="165" />
-  </div>
-  <div style="display: inline_block"><br>
-  
+    </h4>    
+<br /> 
  <h4 align="center"> 🧠 Learning </h4>
   <p align="center">
   <img align="center" alt="jst-PBI" height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/5770fb98bebafbef665cb19a/1541071878995-8JG7GYK13BSX5SLKZ1NK/Microsoft+Power+BI">
