@@ -7,6 +7,7 @@
    <h4 align='left'>
     📍 Canoinhas, Brazil <br /><br />
       💻 Systems Analyst and Developer<br /><br />
+     <img src="https://img.shields.io/badge/%202024-brightgreen" /> <br /><br />
       💻 Software Engineering.
       <img src="https://img.shields.io/badge/%202025-brightgreen" /> <br /><br />
     </h4>
